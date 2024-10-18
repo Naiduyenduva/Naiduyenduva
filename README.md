@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @Naiduyenduva
-- 👀 I’m interested in developing products...
-- 🌱 I’m currently learning full stack in javascript...
-- 💞️ I’m looking to collaborate on projects on frontend...
-- 📫 How to reach me mail at my portfolio...
-- 😄 Pronouns: Naidu...
-- ⚡ Fun fact: coding for fun...
+I'm a Full-Stack Developer with a passion for Frontend. I always aim for the best code quality and smooth coding. I'm excited about learning and using new technologies in my projects. Listening music while coding is my routine.
 
-<!---
-Naiduyenduva/Naiduyenduva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Technologies & Tools :
+_________________________________________________________________________
+Programming/Scripting Languages worked with: Java, JavaScript
+Frontend Development: React.js, Next.js
+Backend Development: Node.js, Express
+Databases: Proficient with MongoDB
+
+__________________________________________________________________________
+🐶 Lets Connect
