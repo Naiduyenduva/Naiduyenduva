@@ -2,13 +2,14 @@ I'm a Full-Stack Developer with a passion for Frontend. I always aim for the bes
 
 🛠️ Technologies & Tools :
 _________________________________________________________________________
-* Programming/Scripting Languages worked with: Java, JavaScript,
 
-* Frontend Development: React.js, Next.js,
+* Programming/Scripting Languages worked with: Java, JavaScript
 
-* Backend Development: Node.js, Express,
+* Frontend Development: React.js, Next.js, Tailwind CSS, HTML, CSS, Redux
 
-* Databases: Proficient with MongoDB
+* Backend Development: Node.js, Express, Typescript
+
+* Databases: Proficient with MongoDB and PostgreSQL with prisma ORM
 
 __________________________________________________________________________
 🐶 Lets Connect
